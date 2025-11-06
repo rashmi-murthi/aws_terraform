@@ -14,7 +14,7 @@ variable "hash_key" {
   default     = "StudentID"
 }
 variable "range_key" {
-  description = "The range key for the DynamoDB table"  
-    type        = string    
-    default     = "Subject"
+  description = "The range key for the DynamoDB table"
+  type        = string
+  default     = "Subject"
 }

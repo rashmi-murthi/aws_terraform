@@ -1,2 +1,3 @@
 # aws_terraform
-examplesto create indivisually
+Lab practise indivial services by aws 
+
